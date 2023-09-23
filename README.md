@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a futures trading algorithm, and a reddit-comment sentiment analysis ML model<br><br>🤩 I am currently interested in data science and backend web-development<br><br>👯 I’m looking to collaborate on anything that will teach me something<br><br>🌱 I’m currently learning NextJS<br><br>📫 How to reach me kareem.717@icloud.com
+🔭 I’m currently working on my web platform bidDropper<br><br>🤩 I am currently interested in ML and full-stack web-development<br><br>👯 I’m looking to collaborate on anything that will teach me something<br><br>🌱 I’m currently learning C<br><br>📫 How to reach me kareem.717@icloud.com
 
 
 ## 🌐 Socials:
