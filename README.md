@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my name is Kareem.<br><br>I am currently mainly focused on a couple start ups, but also work on some public side projects - checkout my [organization](github.com/yakubu-llc) to find the repos: , that is where I publish most of my 'serious' repos.
+Hey my name is Kareem.<br><br>I am currently mainly focused on a couple start ups, but also work on some public side projects - checkout my [organization](github.com/yakubu-llc) to find the repos, that is where I publish most of my 'serious' repos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kareemyakubu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bootbig76) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yakubu-llc) 
