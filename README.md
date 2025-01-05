@@ -1,4 +1,4 @@
-Hey my name is Kareem.<br><br>I am currently locked in on a startup.
+Sshhh...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-two-psi-45.vercel.app/api?username=kareem717&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
